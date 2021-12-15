@@ -14,11 +14,10 @@ After completing this lab, you will be able to:
 
 ## Requirements
 
-- Fork this repository
-- Add your instructor and the class graders to your repository and ensure that your repository is private. Public repositories will receive a zero on the assignment.
-- If you are unsure who your class graders are, ask your instructor or refer to the day 1 slide deck.
+- Fork this repository.
+<!-- - Add your instructor and the class graders to your repository and ensure that your repository is private. Public repositories will receive a zero on the assignment.
+  - If you are unsure who your class graders are, ask your instructor or refer to the day 1 slide deck. -->
 - Upload the code for all of the following prompts to your repository.
-- Submit a URL link to your repository below.
 
 ## Submission
 
@@ -30,7 +29,7 @@ After completing this lab, you will be able to:
   git push origin main
   ```
 
-- Create Pull Request so your TAs can check up your work.
+- Create a Pull Request
 
 When you make pull request in pair-programming: `student1,student2-nameOfTheExercise` <br>
 When you make pull request in individual-programming: `student-nameOfTheExercise`

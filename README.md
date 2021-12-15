@@ -3,6 +3,8 @@
 
 # Lab | Intro to Swift
 
+<br>
+
 ## Learning Outcomes
 
 After completing this lab, you will be able to:
@@ -14,14 +16,18 @@ After completing this lab, you will be able to:
 
 ## Requirements
 
-- Fork this repository.
+As you are not familiar with GitHub and how to use it (we will talk about that in the following days), for now just download the starter code by clicking on "Download as zip"
+
+<!-- - Fork this repository. -->
 <!-- - Add your instructor and the class graders to your repository and ensure that your repository is private. Public repositories will receive a zero on the assignment.
   - If you are unsure who your class graders are, ask your instructor or refer to the day 1 slide deck. -->
-- Upload the code for all of the following prompts to your repository.
+<!-- - Upload the code for all of the following prompts to your repository. -->
 
 ## Submission
 
-- Upon completion, run the following commands:
+You will not have to submit your code (at least not for now), but you could be asked to explain your solution to your classmates and your teaching team.
+
+<!-- - Upon completion, run the following commands:
 
   ```shell
   git add .
@@ -32,7 +38,7 @@ After completing this lab, you will be able to:
 - Create a Pull Request
 
 When you make pull request in pair-programming: `student1,student2-nameOfTheExercise` <br>
-When you make pull request in individual-programming: `student-nameOfTheExercise`
+When you make pull request in individual-programming: `student-nameOfTheExercise` -->
 
 <br>
 
@@ -44,47 +50,7 @@ As a bonus, you might get to figure out a nifty trick many developers often use 
 
 ### Starter code
 
-In the repo you have forked, we provide you with a starter code. This code contains a starter Swift Playground you are going to build from. We will be starting where we left off in the last lesson's last activity.
-
-<!-- Sandra: The below is not needed anymore - to be removed after validated with an SME -->
-<!-- Adjust the starter code to the needs of the students and the lessons that they covered so far.
-
-```swift
-//: A UIKit based Playground for presenting user interface
-  
-import UIKit
-import PlaygroundSupport
-
-class MyViewController : UIViewController {
-    override func loadView() {
-        let view = UIView()
-        view.backgroundColor = .white
-
-        let label = UILabel()
-        label.frame = CGRect(x: 150, y: 200, width: 200, height: 20)
-        label.text = "Hello World!"
-        label.textColor = .black
-        
-        view.addSubview(label)
-        self.view = view
-        
-        var name = "Anna"
-        label.text = "My name is \(name)"
-        
-        var darkMode = true
-        if darkMode {
-            view.backgroundColor = .black
-            label.textColor = .yellow
-        } else {
-            view.backgroundColor = .white
-            label.textColor = .blue
-        }
-    }
-}
-
-// Present the view controller in the Live View window
-PlaygroundPage.current.liveView = MyViewController()
-``` -->
+We provided you with a starter code. This code contains a starter Swift Playground you are going to build from. We will be starting where we left off in the last lesson's last activity.
 
 ### Iterations
 

@@ -16,7 +16,15 @@ After completing this lab, you will be able to:
 
 ## Requirements
 
-As you are not familiar with GitHub and how to use it (we will talk about that in the following days), for now just download the starter code by clicking on "Download as zip"
+As you are not familiar with GitHub and how to use it (we will talk about that in the following days), for now just download the starter code by clicking on "Download as zip".
+
+<details> 
+  <summary> Check the image inside </summary>
+
+  <br>
+
+  ![download-code-from-github](https://education-team-2020.s3.eu-west-1.amazonaws.com/ios/download-code-from-github.png)
+</details>
 
 <!-- - Fork this repository. -->
 <!-- - Add your instructor and the class graders to your repository and ensure that your repository is private. Public repositories will receive a zero on the assignment.
